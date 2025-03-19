@@ -1,0 +1,21 @@
+*{
+    font-family: "Inter";
+}
+
+#faixa-topo{
+ color: #FFFFFF;
+ background-color: #303030 ;
+ padding: 150px;
+}
+
+#texto-principal{
+ margin-left: -80px;
+ font-size: 60px;
+ font-weight: 600;
+ line height: 72px;
+}
+
+#texto-secundario{
+
+    
+}
