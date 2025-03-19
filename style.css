@@ -9,13 +9,71 @@
 }
 
 #texto-principal{
- margin-left: -80px;
- font-size: 60px;
- font-weight: 600;
- line height: 72px;
+ margin-left:-80px;
+ font-size:60px;
+ font-weight:600;
+ line-height: 72px;
 }
 
 #texto-secundario{
+ margin-left: -80px;
+ margin-top: -15px;
+ font-size: 20px;
+}
 
-    
+#back-infos{
+    background-color: #f9f9f9;
+    padding: 35px;
+}
+
+#texto-numeros{
+display: grid;
+grid-auto-flow: column;
+columns: auto;
+margin: 0px 0px 0px 300px;
+}
+
+#textinho1{
+display: grid;
+grid-auto-flow: column;
+columns: auto;
+margin: 0px 0px 0px 150px;
+}
+
+#textinho2{
+display: grid;
+grid-auto-flow: column;
+columns: auto;
+margin: -40px 0px 0px 600px;
+}
+
+#textinho3{
+display: grid;
+grid-auto-flow: column;
+columns: auto;
+margin: -18px 0px 0px 1000px;
+}
+
+#menu-foto{
+background-color: white;
+font-family: "inter" ;
+margin-top: 230px;
+margin-left: 250px;
+}
+
+#foto{
+margin-top:-370px ;
+margin-left: 680px;
+width: 510px;
+height: 605px;
+}
+
+#texto-arquitetos{
+font-size: 35px;
+font-weight: 490;
+font: bolder;
+}
+
+#texto-complementar{
+font-size: 20px
 }
