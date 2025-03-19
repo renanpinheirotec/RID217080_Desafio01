@@ -33,25 +33,25 @@ columns: auto;
 margin: 0px 0px 0px 300px;
 }
 
-#textinho1{
+#textinho-um{
 display: grid;
 grid-auto-flow: column;
 columns: auto;
-margin: 0px 0px 0px 150px;
+margin: -19px 0px 0px 300px;
 }
 
-#textinho2{
+#textinho-dois{
 display: grid;
 grid-auto-flow: column;
 columns: auto;
-margin: -40px 0px 0px 600px;
+margin: -22px 0px 50px 702px;
 }
 
-#textinho3{
+#textinho-tres{
 display: grid;
 grid-auto-flow: column;
 columns: auto;
-margin: -18px 0px 0px 1000px;
+margin: -70px 0px 0px 1085px;
 }
 
 #menu-foto{
@@ -64,6 +64,7 @@ margin-left: 250px;
 #foto{
 margin-top:-370px ;
 margin-left: 680px;
+margin-bottom: 65px;
 width: 510px;
 height: 605px;
 }
@@ -77,3 +78,42 @@ font: bolder;
 #texto-complementar{
 font-size: 20px
 }
+
+#formulario{
+text-align: center;
+padding: 50px;
+color: white;
+background-color: #303030
+}
+
+#titulo-formulario{
+    font-size:30px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+    margin-top: 40px;
+}
+
+
+#botao{
+background-color: #C07212;
+color: white;
+width: 200px;
+height: 50px;
+border-radius: 10px;
+font-size: 22px;
+font: bolder;
+margin-top: 60px;
+}
+
+#botao:hover{
+    transform: translateY(10%);
+    cursor: pointer;
+    }
